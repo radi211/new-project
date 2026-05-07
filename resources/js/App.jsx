@@ -19,7 +19,7 @@ function LoginScreen({ onSuccess }) {
                         <span className="field__icon">@</span>
                         <input
                             type="text"
-                            placeholder="01930493796"
+                            placeholder="hi"
                             aria-label="Phone number"
                         />
                     </label>
